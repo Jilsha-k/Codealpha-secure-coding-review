@@ -29,5 +29,5 @@ Through this task, I gained a better understanding of:
 - Improving authentication security in web applications  
 
 ## Author
-**Muhammed Shameel NV**  
+**Fathimath Jilsha K**  
 Cyber Security Intern – CodeAlpha
